@@ -25,8 +25,7 @@ public class Car_Chapter15 {
 		}
 		
 		System.out.println("ギア" + gear + "から" + afterGear + "に切り替えました");
-		
-		int gear = afterGear;
+			
 	}
 	
 	public void run() {
